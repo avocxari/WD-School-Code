@@ -18,6 +18,9 @@
 
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8.svg)](https://wakatime.com/badge/user/0e366a11-2ff1-4879-8d73-b3971fd51faa/project/68129915-c8a5-4aa6-a729-1544f4be50c8)
+
+
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
@@ -25,6 +28,7 @@
 ---
 
 <br />
+
 <br />
 
 <!-- TODO: If you want to add more layers for your readme -->
